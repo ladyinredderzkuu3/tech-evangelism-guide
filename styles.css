@@ -34,7 +34,7 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #333; /* Changed footer background color */
+    background: #444; /* Updated footer background color for better contrast */
     color: #ffffff;
     position: relative;
     bottom: 0;
